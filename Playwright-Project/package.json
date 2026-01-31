@@ -1,0 +1,27 @@
+{
+  "name": "playwright-project",
+  "version": "1.0.0",
+  "description": "![Node.js](https://img.shields.io/badge/Node.js-18%2B-green)\r ![Playwright](https://img.shields.io/badge/Playwright-Test%20Automation-blue)\r ![Testing](https://img.shields.io/badge/Type-UI%20%26%20Functional%20Testing-orange)\r ![Status](https://img.shields.io/badge/Status-Academic%20Project-lightgrey)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mandirajayasinghe/Playwright-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mandirajayasinghe/Playwright-Project/issues"
+  },
+  "homepage": "https://github.com/mandirajayasinghe/Playwright-Project#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.1"
+  },
+  "dependencies": {
+    "playwright": "^1.58.1",
+    "playwright-core": "^1.58.1"
+  }
+}
